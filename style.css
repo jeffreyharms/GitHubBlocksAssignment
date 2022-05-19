@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+    color: grey;
+}
+
+.topRow {
+    height: 250px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.middleRow {
+    height: 250px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.bottomRow {
+    height: 250px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.octoCat {
+    height: 200px;
+}
